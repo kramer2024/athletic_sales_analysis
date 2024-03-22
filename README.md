@@ -91,7 +91,7 @@ The starter code provided includes all the steps necessary to complete this chal
 - Apply resample to the pivot table above, place the data into weekly bins, and get the total sales for each week.
 
 - Sort the resampled DataFrame in descending order to show the top 10 weeks that generated the most women's athletic footwear sales. Your final table should look like the following image:
-![alt text](image-5.png)
+![alt text](image-6.png)
 
 - The top 10 weeks that generated the most women's athletic footwear sales.
 
